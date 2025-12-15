@@ -51,7 +51,7 @@
 4. **模型服务：** 在 WSL 中安装并运行 **Ollama** 服务，并拉取所需模型（如 `ollama pull deepseek-r1:7b`）。
 5. **依赖：** 安装 `Python 3.10+` 和 `Node.js / npm` 环境。
 
-
+快速开始：
 
 1. **启动 Ollama：** 在 WSL 中运行 `ollama serve`。
 2. **启动后端：** 在后端项目目录下，激活 Python 环境并运行 `python manage.py runserver 0.0.0.0:8000`。
